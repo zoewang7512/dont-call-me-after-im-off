@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/dont-call-me-after-im-off/static/css/main.444cabee.css",
+    "main.js": "/dont-call-me-after-im-off/static/js/main.959af8ec.js",
+    "static/js/453.b83dee7a.chunk.js": "/dont-call-me-after-im-off/static/js/453.b83dee7a.chunk.js",
+    "static/media/goodNewsBadNews.jpg": "/dont-call-me-after-im-off/static/media/goodNewsBadNews.55fcbead6525532da7d0.jpg",
+    "static/media/lottery.jpg": "/dont-call-me-after-im-off/static/media/lottery.ea135fafa54550b12f85.jpg",
+    "static/media/notMe.jpg": "/dont-call-me-after-im-off/static/media/notMe.065ed261505b6494f656.jpg",
+    "static/media/tooBad.jpg": "/dont-call-me-after-im-off/static/media/tooBad.6c4ec0623ea0458fb269.jpg",
+    "static/media/emergencyCall.jpg": "/dont-call-me-after-im-off/static/media/emergencyCall.031098a9f67775007bf2.jpg",
+    "static/media/404.jpg": "/dont-call-me-after-im-off/static/media/404.b70676780eb706b3a43d.jpg",
+    "static/media/LoveMyJobLogo.jpg": "/dont-call-me-after-im-off/static/media/LoveMyJobLogo.ca9a6bfb3532b27e7dad.jpg",
+    "index.html": "/dont-call-me-after-im-off/index.html",
+    "main.444cabee.css.map": "/dont-call-me-after-im-off/static/css/main.444cabee.css.map",
+    "main.959af8ec.js.map": "/dont-call-me-after-im-off/static/js/main.959af8ec.js.map",
+    "453.b83dee7a.chunk.js.map": "/dont-call-me-after-im-off/static/js/453.b83dee7a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.444cabee.css",
+    "static/js/main.959af8ec.js"
+  ]
+}
