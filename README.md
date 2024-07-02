@@ -6,7 +6,7 @@ Please press F5 to reload the page.
 
 ✨This website was inspired by [here](https://www.instagram.com/reel/C536o_-RsPT/?igsh=MXhuZHB1OTBmZDJkYw%3D%3D).
 
-## 網站連結 Website Link:
+## Website Link:
 
 https://zoewang7512.github.io/dont-call-me-after-im-off/
 
