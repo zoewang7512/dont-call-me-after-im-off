@@ -1,3 +1,16 @@
+# dont-call-me-after-im-off
+
+A website for practicing math random in javascript.
+
+Please press F5 to reload the page.
+
+✨This website was inspired by [here](https://www.instagram.com/reel/C536o_-RsPT/?igsh=MXhuZHB1OTBmZDJkYw%3D%3D).
+
+## 網站連結 Website Link:
+
+https://zoewang7512.github.io/dont-call-me-after-im-off/
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
